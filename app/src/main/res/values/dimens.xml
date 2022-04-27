@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="small_text">14sp</dimen>
+    <dimen name="big_text">18sp</dimen>
+    <dimen name="separator_width">20dp</dimen>
+    <dimen name="time_width">40dp</dimen>
+    <dimen name="value_width">40dp</dimen>
+    <dimen name="record_height">60dp</dimen>
+    <dimen name="header_height">40dp</dimen>
+    <dimen name="icon_size">12dp</dimen>
+    <dimen name="fab_size">60dp</dimen>
+</resources>
